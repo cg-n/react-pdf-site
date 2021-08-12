@@ -4,6 +4,8 @@ import NavigationButtons from '../src/components/Docs/NavigationButtons'
 
 <EditButton to="https://github.com/react-pdf/site/blob/master/docs/fonts.md" />
 
+another change
+
 ## Fonts
 
 React-pdf is shipped with a `Font` module that enables to load fonts from different sources, handle how words are wrapped and defined an emoji source to embed these glyphs on your document.
